@@ -4,13 +4,11 @@
 }
 
 .header {
-    margin-top: 50px;
+    margin-top: 20px;
     background-color: #fff;
     padding: 10px 20px;
     margin-bottom: 25px;
 }
-
-
 
 .header__container {
     display: flex;
